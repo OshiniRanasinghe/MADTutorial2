@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class ActivityOne extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
